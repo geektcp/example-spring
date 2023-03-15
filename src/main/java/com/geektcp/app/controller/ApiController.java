@@ -7,7 +7,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
- * @author Administrator on 2023/3/15 10:00.
+ * site: https://github.com/geektcp
+ * @author geektcp@163.com on 2023/3/15 10:00.
  */
 @Slf4j
 @RestController

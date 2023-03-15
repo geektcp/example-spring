@@ -8,7 +8,8 @@ import org.springframework.scheduling.annotation.EnableAsync;
 import org.springframework.scheduling.annotation.EnableScheduling;
 
 /**
- * @author Administrator on 2023/3/14 15:44.
+ * site: https://github.com/geektcp
+ * @author geektcp@163.com on 2023/3/14 15:44.
  */
 @Slf4j
 @EnableScheduling
