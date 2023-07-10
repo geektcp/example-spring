@@ -1,4 +1,4 @@
-# thy-app
+thy-app
 ------------------------------
 
 [website](http://karinpoky.com)
